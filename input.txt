@@ -1,0 +1,4 @@
+last:first:userID:pwd:Salt:algorithm
+m:m:m:f0cde655346b:8UURXDVO:MD5
+p:p:p:f7152f1e4e32:OMEVTQUP:MD5
+maricreve:maricreve:maricreve:9caf120da8ad:IO0TEOOC:MD5
