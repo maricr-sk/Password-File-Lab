@@ -1,1 +1,2 @@
 # Password-File-Lab
+Final project for my high school data structures class: using hashmaps and coding keys to create, store, and encrypt a password file, and to act as a functioning web page with username, password, first, and last name functionalities. Also supports multiple functions like logging in, registering an account, updating a password, deleting an account, printing from a file, and breaking out the loop. 
